@@ -1,0 +1,25 @@
+.carousel-item {
+  position: relative;
+  text-align: center;
+  padding: 10px;
+  padding-top: 10px;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 540px;
+  object-fit: cover;
+  padding: 0px;
+}
+
+.carousel-text {
+  position: absolute;
+  top: 10%;
+  right: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  border-radius: 20px;
+  z-index: 10;
+}

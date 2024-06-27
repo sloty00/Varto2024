@@ -1,0 +1,12 @@
+/* BrandsCarousel.css */
+
+.brands-carousel-container {
+  padding: 100px;
+  justify-content: center; /* Centra horizontalmente el contenido */
+  align-items: center; /* Ajusta según tus necesidades de centrado vertical */
+}
+.brands-carousel-item {
+  position: relative;
+  text-align: center;
+  /* Otros estilos según sea necesario */
+}

@@ -1,0 +1,10 @@
+.quality-container {
+    padding: 0px;
+    justify-content: center; /* Centra horizontalmente el contenido */
+    align-items: center; /* Ajusta según tus necesidades de centrado vertical */
+  }
+  .quality-item {
+    position: relative;
+    text-align: justify;
+    /* Otros estilos según sea necesario */
+  }

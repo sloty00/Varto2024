@@ -1,0 +1,11 @@
+
+.contact-container {
+  padding: 0px;
+  justify-content: center; /* Centra horizontalmente el contenido */
+  align-items: center; /* Ajusta según tus necesidades de centrado vertical */
+}
+
+.contact-item {
+  position: relative;
+  text-align: justify;
+}

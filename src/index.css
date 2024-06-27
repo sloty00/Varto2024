@@ -1,13 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: Arial, sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+main {
+  padding: 0px;
+  padding-top: 0px; /* Adjust for header height */
+}
+
+/* Establecer un mínimo de altura para ocupar toda la pantalla */
+html, body, #root {
+  height: 100%;
+}
+
+/* Contenedor principal con diseño de columnas */
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  min-height: 70vh; /* Ocupa toda la altura de la pantalla visible */
+}
+
+/* Contenido principal que crece con el contenido */
+.flex-grow {
+  flex-grow: 1;
 }

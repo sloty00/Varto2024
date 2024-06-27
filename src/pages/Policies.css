@@ -1,0 +1,10 @@
+  .policies-container {
+    padding: 0px;
+    justify-content: center; /* Centra horizontalmente el contenido */
+    align-items: center; /* Ajusta según tus necesidades de centrado vertical */
+  }
+  .policies-item {
+    position: relative;
+    text-align: left;
+    /* Otros estilos según sea necesario */
+  }
