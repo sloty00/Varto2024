@@ -1,9 +1,8 @@
-[Ver Video de Funcionamiento](https://youtu.be/C2QWSkBgsUQ)
-
 ## Reseña del Proyecto: Sitio Web de VARTO
 
 ### Descripción del Proyecto
 El sitio web de VARTO es una plataforma dedicada a presentar y promover los servicios de ingeniería y soluciones tecnológicas ofrecidas por la empresa. Este proyecto fue desarrollado con el objetivo de establecer una presencia online robusta y atractiva que refleje la innovación y la excelencia de VARTO en el sector tecnológico e ingenieril.
+Puedes ver el video: [Ver Video de Funcionamiento](https://youtu.be/C2QWSkBgsUQ)
 
 ### Detalles Técnicos
 - **Tecnologías Utilizadas:**  
