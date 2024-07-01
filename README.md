@@ -18,7 +18,7 @@ Puedes ver el video: [Ver Video de Funcionamiento](https://youtu.be/C2QWSkBgsUQ)
   - **Formulario de Contacto:** Integración de un formulario de contacto para facilitar la comunicación con los clientes potenciales.
 
 ### Costo y Tiempo de Desarrollo
-El proyecto fue desarrollado internamente por el equipo de VARTO, lo que permitió un control eficiente sobre los costos y el tiempo de desarrollo. Se invirtió aproximadamente [X cantidad] de horas/personas en el diseño, desarrollo e implementación del sitio web.
+El proyecto fue desarrollado internamente por el equipo de VARTO, lo que permitió un control eficiente sobre los costos y el tiempo de desarrollo. Se invirtió aproximadamente 80 de horas/personas en el diseño, desarrollo e implementación del sitio web.
 
 ### Beneficios y Resultados
 - **Mejora de la Presencia Online:** Incremento significativo en la visibilidad y accesibilidad de VARTO en el entorno digital.
